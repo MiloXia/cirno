@@ -19,5 +19,5 @@ learning π-calculus.
 - https://www.ime.usp.br/~cef/mac499-10/monografias/pedromatiello/pistache-presentation/presentation.pdf
 
 #### Book:
-Milner, Robin (1999). Communicating and Mobile Systems: The π-calculus. Cambridge, UK: Cambridge University Press. ISBN 0-521-65869-1.
+- Milner, Robin (1999). Communicating and Mobile Systems: The π-calculus. Cambridge, UK: Cambridge University Press. ISBN 0-521-65869-1.
 
